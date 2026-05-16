@@ -9,9 +9,9 @@
 Turn your boring Muggle terminal into a **wizard's workshop**. One `bash` install on macOS, Linux, or any Unix-like system, and everyday commands become **Harry Potter spells**.
 
 ```bash
-curl -fsSL https://raw.githubusercontent.com/YOUR_USER/hogwarts-commandline/main/install.sh | bash
+curl -fsSL https://raw.githubusercontent.com/amirabbas-gh/hogwarts-commandline/main/install.sh | bash
 # or clone and run locally:
-git clone https://github.com/YOUR_USER/hogwarts-commandline.git
+git clone https://github.com/amirabbas-gh/hogwarts-commandline.git
 cd hogwarts-commandline && ./install.sh
 ```
 
